@@ -2,33 +2,50 @@
 
 Aerospace Engineering Student | Computational Engineering | Python Simulations
 
-I am currently pursuing B.Tech in Aerospace Engineering and exploring computational tools to analyze aerodynamic and propulsion systems.
+I am currently pursuing B.Tech in Aerospace Engineering and exploring computational tools for aerodynamics, propulsion, and aircraft performance analysis.
+
+---
 
 ## Areas of Interest
 
-- Aerodynamics
-- Aircraft Performance
-- Propulsion Systems
-- Advanced Energy Systems
-- UAV Design
+✈️ Aerodynamics  
+🚀 Propulsion Systems  
+📊 Aircraft Performance  
+⚡ Advanced Energy Systems  
+🛰 UAV Design  
+
+---
 
 ## Current Projects
 
-- Turbojet Engine Performance Simulator
-- NACA Airfoil Aerodynamic Analyzer
-- Aircraft Performance Analyzer
+• Turbojet Engine Performance Simulator  
+• NACA Airfoil Aerodynamic Analyzer  
+• Aircraft Performance Analyzer  
+
+---
 
 ## Tools & Technologies
 
-Python  
-NumPy  
-Matplotlib  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=python&logoColor=black)
+
+Engineering Software:
+
 SolidWorks  
 Fusion 360  
 AutoCAD  
 
+---
+
 ## Currently Learning
 
-- MATLAB
-- ANSYS
-- Computational Aerodynamics
+MATLAB  
+ANSYS  
+Computational Aerodynamics  
+
+---
+
+## GitHub Stats
+
+![Bunty's GitHub stats](https://github-readme-stats.vercel.app/api?username=bunty-dev-aero&show_icons=true&theme=default)
