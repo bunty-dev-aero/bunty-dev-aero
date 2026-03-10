@@ -1,16 +1,34 @@
-## Hi there 👋
+# Bunty
 
-<!--
-**bunty-dev-aero/bunty-dev-aero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aerospace Engineering Student | Computational Engineering | Python Simulations
 
-Here are some ideas to get you started:
+I am currently pursuing B.Tech in Aerospace Engineering and exploring computational tools to analyze aerodynamic and propulsion systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Areas of Interest
+
+- Aerodynamics
+- Aircraft Performance
+- Propulsion Systems
+- Advanced Energy Systems
+- UAV Design
+
+## Current Projects
+
+- Turbojet Engine Performance Simulator
+- NACA Airfoil Aerodynamic Analyzer
+- Aircraft Performance Analyzer
+
+## Tools & Technologies
+
+Python  
+NumPy  
+Matplotlib  
+SolidWorks  
+Fusion 360  
+AutoCAD  
+
+## Currently Learning
+
+- MATLAB
+- ANSYS
+- Computational Aerodynamics
