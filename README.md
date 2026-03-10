@@ -30,6 +30,10 @@ I am currently pursuing B.Tech in Aerospace Engineering and exploring computatio
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=python&logoColor=black)
 
+![Python](https://img.shields.io/badge/Python-blue)
+![Aerodynamics](https://img.shields.io/badge/Aerodynamics-orange)
+![Engineering Simulation](https://img.shields.io/badge/Engineering-Simulation-green)
+
 Engineering Software:
 
 SolidWorks  
