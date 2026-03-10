@@ -50,6 +50,12 @@ Computational Aerodynamics
 
 ---
 
+## Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](www.linkedin.com/in/bunty-thamta)
+
+[![Email](https://img.shields.io/badge/Email-red?logo=gmail)](mailto:bunty.ae.dev@gmail.com)
+
 ## GitHub Stats
 
 ![Bunty's GitHub stats](https://github-readme-stats.vercel.app/api?username=bunty-dev-aero&show_icons=true&theme=default)
